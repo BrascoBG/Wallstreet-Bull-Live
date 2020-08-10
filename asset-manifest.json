@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Wallstreet-Bull-Live/static/css/main.9ed8ca9f.chunk.css",
-    "main.js": "/Wallstreet-Bull-Live/static/js/main.794904d8.chunk.js",
-    "main.js.map": "/Wallstreet-Bull-Live/static/js/main.794904d8.chunk.js.map",
+    "main.js": "/Wallstreet-Bull-Live/static/js/main.1a16068f.chunk.js",
+    "main.js.map": "/Wallstreet-Bull-Live/static/js/main.1a16068f.chunk.js.map",
     "runtime-main.js": "/Wallstreet-Bull-Live/static/js/runtime-main.f8da1f4a.js",
     "runtime-main.js.map": "/Wallstreet-Bull-Live/static/js/runtime-main.f8da1f4a.js.map",
     "static/css/2.af3c1da9.chunk.css": "/Wallstreet-Bull-Live/static/css/2.af3c1da9.chunk.css",
     "static/js/2.52871e34.chunk.js": "/Wallstreet-Bull-Live/static/js/2.52871e34.chunk.js",
     "static/js/2.52871e34.chunk.js.map": "/Wallstreet-Bull-Live/static/js/2.52871e34.chunk.js.map",
     "index.html": "/Wallstreet-Bull-Live/index.html",
-    "precache-manifest.66ab7368dbf5e3a1abffc0fe6d1c27d6.js": "/Wallstreet-Bull-Live/precache-manifest.66ab7368dbf5e3a1abffc0fe6d1c27d6.js",
+    "precache-manifest.98b17a574bb5ebdd0cab33868fb6320a.js": "/Wallstreet-Bull-Live/precache-manifest.98b17a574bb5ebdd0cab33868fb6320a.js",
     "service-worker.js": "/Wallstreet-Bull-Live/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/Wallstreet-Bull-Live/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.9ed8ca9f.chunk.css.map": "/Wallstreet-Bull-Live/static/css/main.9ed8ca9f.chunk.css.map",
@@ -24,6 +24,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.52871e34.chunk.js",
     "static/css/main.9ed8ca9f.chunk.css",
-    "static/js/main.794904d8.chunk.js"
+    "static/js/main.1a16068f.chunk.js"
   ]
 }
