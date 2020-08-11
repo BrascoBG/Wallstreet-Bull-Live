@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Wallstreet-Bull-Live/precache-manifest.972bce333ca1dc6c346175c7af614209.js"
+  "/Wallstreet-Bull-Live/precache-manifest.55dfbc71424392d55264a459c0faa21d.js"
 );
 
 self.addEventListener('message', (event) => {

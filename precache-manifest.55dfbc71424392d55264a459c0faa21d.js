@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ade38130878724fb36f91a4ca24657ff",
+    "revision": "71f7407c761a74dd53b04139a8c7b717",
     "url": "/Wallstreet-Bull-Live/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Wallstreet-Bull-Live/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "9fde578cfb245a3251bc",
+    "revision": "6d48f59c796c735aa740",
     "url": "/Wallstreet-Bull-Live/static/css/main.9e48126a.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Wallstreet-Bull-Live/static/js/2.52871e34.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9fde578cfb245a3251bc",
-    "url": "/Wallstreet-Bull-Live/static/js/main.1a16068f.chunk.js"
+    "revision": "6d48f59c796c735aa740",
+    "url": "/Wallstreet-Bull-Live/static/js/main.ef7adf70.chunk.js"
   },
   {
     "revision": "9a89cd290a01b81117e8",
